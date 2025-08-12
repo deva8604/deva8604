@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠 Tech Skills
+##  Tech Skills
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -37,55 +37,55 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A66C2?logo=github-actions&logoColor=fff)
 
 ---
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🤖 **AI-Powered Chatbot**
+### 🤖 **AI-Powered Chatbot** [🔗 View Project](https://github.com/deva8604/Stan-assignment-solution)
 A full-stack intelligent chatbot built using **React.js**, **Node.js**, and the **Gemini 2.0 API**.  
 - Remembers previous conversations for context-aware responses.  
 - Detects and adapts tone (Happy, Sad, Angry, Neutral, Excited) in real-time.  
 - Designed with a responsive, modern UI using **Tailwind CSS**.  
 - Includes smooth animations, loading indicators, and robust error handling with API fallback.  
-- Ideal for customer support, personal assistants, or interactive learning platforms.  
-[🔗 View Project](https://github.com/deva8604/Stan-assignment-solution)  
+- Ideal for customer support, personal assistants, or interactive learning platforms.    
+- **Tech Stack:** React.js, Node.js, Tailwind CSS, Axios, Gemini 2.0 API, JavaScript (ES6+), Context API, Hooks, Express.js.  
 
 ---
 
-### 🌐 **Portfolio Website**
+### **Portfolio Website** [🔗 View Project](https://www.linkedin.com/feed/update/urn:li:activity:7358392881906106368/)
 A modern, responsive portfolio developed with **React.js** and **Tailwind CSS** to showcase my work and skills.  
 - Best-in-class UI with clean design and smooth component rendering.  
 - Fully responsive, optimized for desktop, tablet, and mobile devices.  
 - Features dynamic effects using `react-parallax-tilt` and `react-simple-typewriter`.  
 - Smooth navigation between sections for a seamless browsing experience.  
 - Serves as a professional gateway for recruiters and clients.  
-[🔗 View Project](https://www.linkedin.com/feed/update/urn:li:activity:7358392881906106368/)  
+- **Tech Stack:** React.js, Tailwind CSS, JavaScript (ES6+), Vite, react-parallax-tilt, react-simple-typewriter, Hooks.    
 
 ---
 
-### ⚡ **Locust Load Testing Framework**
+###  **Locust Load Testing Framework** [🔗 View Project](https://github.com/deva8604/locust_testing)  
 A **Python-based load testing tool** created with Locust for performance testing REST APIs.  
 - Simulates concurrent user traffic with token-based authentication.  
 - Validates response times, throughput, and error rates under different loads.  
 - Generates detailed HTML reports for performance analysis.  
 - Designed to test both public and authenticated API endpoints.  
 - Useful for backend performance tuning and scalability checks.  
-[🔗 View Project](https://github.com/deva8604/locust_testing)  
+- **Tech Stack:** Python, Locust, REST API, Token-based Authentication, HTML Reports.  
 
 ---
-## 📜 Certifications
+## Certifications
 
 - **Project Initiation: Starting a Successful Project** – Gained skills in project management lifecycle, stakeholder analysis, RACI charts, and project planning.  
 - **Journey to Cloud Certification – IBM** – Mastered cloud computing concepts, deployment strategies, and IBM Garage Method for cloud transformation.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - **LinkedIn:** [Devesh Kumar](https://www.linkedin.com/in/devesh-kumar-76b871292/)
 - **GitHub:** [deva8604](https://github.com/deva8604)
 - **Email:** deveshkumarmm4@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deva8604&show_icons=true&theme=tokyonight" alt="GitHub stats" />
